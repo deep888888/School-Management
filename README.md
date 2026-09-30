@@ -1,4 +1,4 @@
-# Django-School-Management-System
+# School-Management
 
 This app is meant to be used by school manager to manage their school records:
  - student data
